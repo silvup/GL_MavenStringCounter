@@ -1,1 +1,1 @@
-# GL_MavenStringCounter
+Projekt którego zadaniem jest przetestowanie narzedzia Maven i zbudowania pierwszego prostego zadania. Sam kod źródłowy przyjmuje jako argument zmienną typu string i zwraca ilość poszczególnych liter użytych w danym słowie.
